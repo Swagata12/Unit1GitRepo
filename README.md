@@ -11,7 +11,7 @@ Table of Contents----
 
 # About Me
 
-I'm [Your Name], a [Your Profession/Title] based in [Your Location]. I have a passion for [Your Interests/Fields of Expertise]. With a background in [Your Background], I love to create and innovate.
+I'm Swagata Dhara, a Web Developer based in kolkata. I have a passion for making websites and apps. With a background in Full Stack development, I love to create and innovate.
 
 # Projects
 
